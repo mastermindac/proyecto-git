@@ -2,5 +2,5 @@
 2.- Actualizado diario Sarosi
 3.- Tu diario
 
-4. Modificacion rama pruebas 1
-5. Modificacion rama pruebas 2
+4. Añadir la primera modificación
+5. Añadir la segunda modificación
