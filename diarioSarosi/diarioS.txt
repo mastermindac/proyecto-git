@@ -1,4 +1,5 @@
 8:00 Despierto
+8:30 Desayuno
 9:30 Programando y programando
 14:30 Comida
 16:00 Nuevo Video
