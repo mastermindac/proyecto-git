@@ -1,1 +1,3 @@
 Aquí viene tu diario
+
+Este es el primer cambio dentro de la rama "nueva-funcionalidad"
