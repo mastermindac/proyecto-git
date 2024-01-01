@@ -6,6 +6,7 @@
 10:00 Daily
 14:00 Comida
 14:45 De vuelta al trabajo
+17:00 Agregar una linea en la rama "nueva-funcionalidad"
 18:00 Fin de la jornada laboral
 19:00 Cosas Varias
 21:30 Cena
