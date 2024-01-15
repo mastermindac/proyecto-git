@@ -1,1 +1,10 @@
 Aquí viene tu diario
+Primer cambio:
+6:30am Despertar
+7:00am Desayunar
+7:30am Estudiar
+10:00am Ejercicio
+12:30pm Almorzar
+1:30pm Estudiar
+8:00pm Libre
+10:00pm Dormir
