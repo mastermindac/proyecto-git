@@ -1,4 +1,3 @@
-Aquí viene tu diario
 
 9:00 Iniciando curso
 
@@ -13,3 +12,5 @@ Aquí viene tu diario
 21:30 Jugar
 
 23:00 Dormir
+
+Fermin Romero
