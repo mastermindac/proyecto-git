@@ -1,2 +1,5 @@
+# .gitignore
+
+/carpetaSecreta/
 password
-.config
+settings
