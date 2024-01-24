@@ -4,3 +4,8 @@
 09:00 Leo un libro
 10:00 Estudio programacion (Teoria)
 12:00 Me voy a trabajar
+05:00 Llego a mi casa
+06:30 Me ducho
+07:00 Realizo curso de Mastermind (Complemantarios)
+09:00 Realizo curso de Mastermind enfocado a diseño web
+12:00 Me voy a dormir
