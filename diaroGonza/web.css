@@ -20,3 +20,11 @@ html, body {
     font-family: monospace;
     font-size: 22px;
 }
+
+.navbar li:hover {
+    opacity: 0.6;
+}
+
+.navbar li:active {
+    color: rgba(0, 0, 0, 0.9)
+}
