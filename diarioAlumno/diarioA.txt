@@ -1,1 +1,6 @@
-Aquí viene tu diario
+06:00 Me levanto 
+07:00 Hago ejercicio
+08:00 Me ducho
+09:00 Leo un libro
+10:00 Estudio programacion (Teoria)
+12:00 Me voy al trabajo
