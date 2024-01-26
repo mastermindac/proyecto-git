@@ -1,1 +1,19 @@
-Aquí viene tu diario
+// Lunes a Viernes
+9:00 Despierto
+9:30 Desayuno
+10:00 Estudio y Estudio
+13:00 Almuerzo
+13:30 Programo..
+5:30 Rugby
+7:00 youtube
+9:00 Me duermo
+
+// Viernes a Domingo
+12:00 Despierto
+13:00 Fortnite
+14:00 Almuerzo
+14:30 Programo
+17:00 Playa
+20:00 Salgo
+24:00 Vengo
+2:00 duermo
