@@ -1,1 +1,2 @@
 "este es mi primer cambio para la rama nueva funcionalidad"
+"este es el segundo cambio en la rama nueva funcionalidad"
