@@ -1,1 +1,7 @@
 Aquí viene tu diario
+
+Día 1: Añadí un .gitignore al repositorio
+Día 2: Corregí una falta de ortografía en el README en rama-pruebas
+Día 3: Añadí el puerto a la URL en configuracion
+Día 4: Creé la rama nueva-funcionalidad
+Día 5: Programé un ejemplo de Violación de Segmento en C (segfault.c)
