@@ -1,1 +1,5 @@
 Aquí viene tu diario
+
+// creo el git ignore de la rama function
+
+// add other folder to gitignore
