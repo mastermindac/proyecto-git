@@ -9,3 +9,5 @@ Proyecto final en el que a partir de un repositorio se van a realizar una serie 
 ## Autores
 
 Propiedad de Mastermind, S.L. (http://www.mastermind.ac)
+
+## muy buen curso, practico y con grandes aprendizajes de la mano
