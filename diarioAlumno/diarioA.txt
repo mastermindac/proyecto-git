@@ -2,3 +2,7 @@ Aquí viene tu diario
 
 En este diario se pondran todas las tareas diarias:
 
+
+1.Tareas mañana: Programar
+2.Tareas mediodia: Comer
+3.Tareas tarde: Hacer trabajos de la universidad
