@@ -1,1 +1,7 @@
 Aquí viene tu diario
+
+En este fichero surgira un CONFLICTO
+
+No obstante este texto no nos interesa por lo que
+al mezclar las ramas: nueva-funcionalidad y rama-pruebas
+este texto desaparecerá
