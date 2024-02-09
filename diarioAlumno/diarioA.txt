@@ -1,1 +1,4 @@
 Aquí viene tu diario
+Aprendiendo GIT para ser un gran programador
+A veces cuesta la constancia pero se puede
+Es un gran diario
