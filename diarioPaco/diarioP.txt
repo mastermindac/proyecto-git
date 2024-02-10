@@ -1,6 +1,6 @@
-6:00 Me levanto de un salto
-6:30 Preparando Cafe
-7:00 Revisando noticias
+6:00 Me levanto y medito 
+6:30 me doy una ducha
+7:00 Reviso noticias
 8:00 De camino a la oficina
 9:30 Aluerzo
 10:00 Daily
@@ -9,5 +9,5 @@
 18:00 Fin de la jornada laboral
 19:00 Cosas Varias
 21:30 Cena
-22:30 Toca leer
-24:00 A dormir
+22:30 Toca lee
+24:00 
