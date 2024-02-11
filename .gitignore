@@ -1,0 +1,8 @@
+# Ignorar la carpeta completa
+/carpetaSecreta/
+
+# Ignorar un fichero específico dentro de una carpeta
+/carpetaSecreta/password
+
+# Ignorar un fichero
+/configuracion
