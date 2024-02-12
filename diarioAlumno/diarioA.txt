@@ -1,1 +1,8 @@
 Aquí viene tu diario
+Día 1: Descargando Git 
+Día 2: Empezando a usar Git
+Día 3: Probando los commits
+Día 5: Usando Ramas
+Día 6: Mesclando Ramas
+Día 7: Usando pull request y github
+Día 8: Haciendo Fork y arreglando problemas
