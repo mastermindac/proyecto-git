@@ -1,0 +1,8 @@
+# Ignorar carpeta secreta
+carpetaSecreta/
+
+# Ignorar fichero password
+carpetaSecreta/password
+
+# Ignorar fichero configuracion del proyecto
+configuracion
