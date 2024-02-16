@@ -1,1 +1,4 @@
 Aquí viene tu diario
+
+- 23:14 creando nueva funcionalidad
+- 00:30 aplicando nueva funcionalidad
