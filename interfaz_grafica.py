@@ -10,9 +10,9 @@ def imprimir_contenido_archivo(ruta_archivo):
         return f"El archivo '{ruta_archivo}' no fue encontrado."
     except Exception as e:
         return f"Ocurrió un error: {e}"
-
+    
 def abrir_archivo():
-    ruta_archivo = filedialog.askopenfilename(title="Seleccionar archivo", filetypes=[("Archivos de texto", "*.txt")])
+    ruta_archivo = "C:/Users/danie/Escritorio/proyecto-git/diarioAlumno/diarioA.txt"
     if ruta_archivo:
         contenido = imprimir_contenido_archivo(ruta_archivo)
         mostrar_contenido_ventana(contenido)

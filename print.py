@@ -9,5 +9,5 @@ def imprimir_contenido_archivo(ruta_archivo):
         print(f"Ocurrió un error: {e}")
 
 # Ejemplo de uso
-ruta_del_archivo = 'ruta/del/archivo.txt' 
+ruta_del_archivo = "C:/Users/danie/Escritorio/proyecto-git/diarioAlumno/diarioA.txt"
 imprimir_contenido_archivo(ruta_del_archivo)
