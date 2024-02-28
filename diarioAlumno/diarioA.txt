@@ -1,1 +1,4 @@
-Aquí viene tu diario
+Como podéis ver en esta carpeta de alumno, he creado nuevos ficheros. Dentro del index.html,
+he redactado el diario. La idea era hacerlo más original por mi parte y ponerme un poco más a prueba.
+
+Te animo a abrir el index.html para ver los cambios realizados y poder leer mi diario.
