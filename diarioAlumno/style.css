@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+header {
+  background-color: #ff0049;
+  display: flex;
+}
+
+header h1 {
+  margin: 10px;
+}
+
+main {
+  background-color: #fff;
+}
+
+.diario {
+  padding: 50px;
+}
+
+.diario p {
+  color: #ff0049;
+}
+
+.diario ul {
+  list-style: decimal;
+  margin: 20px;
+}
