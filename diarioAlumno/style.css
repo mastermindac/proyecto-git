@@ -5,9 +5,16 @@
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
+body {
+  background-color: #fff;
+}
+
 header {
   background-color: #ff0049;
   display: flex;
+  justify-content: center;
+  padding: 15px;
+  opacity: 0.9;
 }
 
 header h1 {
@@ -15,18 +22,36 @@ header h1 {
 }
 
 main {
-  background-color: #fff;
+  padding: 50px 0 50px 0;
 }
 
-.diario {
-  padding: 50px;
+section {
+  background-color: #eee;
+  margin: 15px 150px 35px 150px;
+  padding: 25px 0px 25px 0px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px 0.9px rgb(202, 202, 202);
 }
 
-.diario p {
+section h2 {
   color: #ff0049;
+  font-weight: 800;
+  font-style: italic;
+  margin: 10px;
 }
 
-.diario ul {
-  list-style: decimal;
-  margin: 20px;
+section p {
+  margin: 10px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+div {
+  text-align: center;
+  padding: 50px 0 25px 0;
+}
+
+div p {
+  padding: 15px;
+  font-style: italic;
 }
