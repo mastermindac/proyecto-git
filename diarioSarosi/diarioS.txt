@@ -6,3 +6,6 @@
 21:30 Cena
 22:30 Nos vemos una serie
 24:00 A dormir
+1:00 jugar rust
+3:00 Jugar lol
+5:00 dormir
