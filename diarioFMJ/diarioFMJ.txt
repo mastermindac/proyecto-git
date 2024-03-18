@@ -1,0 +1,17 @@
+6:00 - Suena el despetador
+7:00 - Sigue sonando el despetador
+8:00 - Sigue sonando el despertador
+9:00 - Sigue sonando el despertador
+10:00 - Levantarse de malas
+11:00 - cafe
+12:00 - mas cafe
+13:00 - Trabajar
+14:00 - Trabajar
+15:00 - Trabajar
+16:00 - Trabajar
+17:00 - mas cafe
+18:00 - Trabajar
+19:00 - Trabajar
+20:00 - cafe?
+21:00 - ...
+22:00 - dormir?
