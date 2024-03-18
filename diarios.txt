@@ -1,3 +1,7 @@
-1.- Creado diario
-2.- Actualizado diario Sarosi
-3.- Tu diario
+# Flujo de Diario  
+_listado con formato markdown_
+
+1. Creado diario  
+2. Actualizado diario Sarosi  
+3. Tu diario  
+4. modificaciones en rama-pruebas
