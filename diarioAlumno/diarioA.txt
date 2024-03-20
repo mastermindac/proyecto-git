@@ -1,1 +1,3 @@
 Aquí viene tu diario
+
+este es mi diario git add
