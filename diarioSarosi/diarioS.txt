@@ -7,4 +7,5 @@
 22:30 Nos vemos una serie
 24:00 A dormir
 
-Modificación 2 para la rama nueva-funcionalidad
+
+Esta línea es posible que cause conflicto con la rama nueva-funcionalidad
