@@ -6,3 +6,5 @@
 21:30 Cena
 22:30 Nos vemos una serie
 24:00 A dormir
+
+Modificación 2 para la rama nueva-funcionalidad
