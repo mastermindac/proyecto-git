@@ -6,3 +6,6 @@
 21:30 Cena
 22:30 Nos vemos una serie
 24:00 A dormir
+
+
+Esta línea es posible que cause conflicto con la rama nueva-funcionalidad
