@@ -5,3 +5,7 @@ Aquí viene tu diario
 PERO QUE ES ESTOOOO??
 
 AQUI ESTABA MI DIARIO
+
+NO ME SIRVE EL .gitignore
+
+NO SE QUE HICE, SEGUN YO ESTA BIEN
