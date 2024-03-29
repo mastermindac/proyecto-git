@@ -1,0 +1,2 @@
+Commit 1: "Estoy realizando un archivo de texto en la rama Nueva-funcionalidad"
+Commit 2: "Hola mundo"
