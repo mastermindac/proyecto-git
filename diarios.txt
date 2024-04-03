@@ -1,3 +1,8 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+
+agreagando mas tareas
+4. - Revisar y corregir
+5. - Comentarios de otros usuarios
+6. - Añadir una nueva tarjeta a tu lista (si lo deseas)
