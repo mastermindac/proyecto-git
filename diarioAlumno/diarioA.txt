@@ -1,1 +1,4 @@
 Aquí viene tu diario
+
+Probando el commit 1 de la rama nueva-funcionalidad
+Probando commit 2 de la rama nueva-funcionalidad
