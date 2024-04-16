@@ -1,3 +1,7 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+4.- Esta es una modificacion de la rama "nueva funcionalidad"
+5.- Una vez la luna estaba llena y vomitó
+6.- Sigue siendo la rama "nueva-funcionalidad"
+7.- Aqui termina la prueba de "nueva-funcionalidad"
