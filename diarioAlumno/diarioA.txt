@@ -1,1 +1,5 @@
 Aquí viene tu diario
+
+Esta es la primera modificacion de nueva-funcionalidad.
+Esta es la segunda modificacion de nueva-funcionalidad.
+
