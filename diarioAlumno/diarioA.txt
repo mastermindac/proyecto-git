@@ -6,3 +6,7 @@ Aquí viene tu diario
 13:30 Comer
 15:30 Trabajo de tarde
 19:00 Fin de trabajo de tarde
+20:00 Programación con Mastermind
+21:30 Cenar
+22:30 Ver la TV
+23:30 A dormir
