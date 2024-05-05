@@ -1,1 +1,15 @@
-Aquí viene tu diario
+7:00 Desayuno
+7:30 Pasear al perro
+8:00 Ir hacia el transporte publico
+10:30 Almuerzo
+12:00 Vuelta a casa
+14:00 Comer
+14:30 Siesta
+17:00 Ir al parque
+18:00 Merendar
+19:00 Hacer ejercicio
+20:00 Ducharte
+22:00 Cenar
+24:00 Dormir
+
+
