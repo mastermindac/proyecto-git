@@ -1,3 +1,5 @@
 Aquí viene tu diario
 7:00 Me levanto
 8:00 Voy a trabajar
+10:00 Almuerzo
+14:00 Comida
