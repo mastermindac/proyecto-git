@@ -1,1 +1,12 @@
-Aquí viene tu diario
+- 9:00: Me despierto
+- 9:30: Desayuno
+- 10:00: Ducha
+- 10:30: Mastermind
+- 13:00: Comida
+- 13:30: Videojuego
+- 16:00: Trabajo
+- 21:30: Cena
+- 22:30: Salir Trabajo
+- 23:30: Videojuego
+- 01:00: Lectura
+- 02:00: Dormir
