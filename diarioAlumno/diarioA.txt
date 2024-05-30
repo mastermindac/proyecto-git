@@ -2,3 +2,4 @@ Aquí viene tu diario
 Hola
 Estoy aprendiendo Git
 Probando algo nuevo
+Parece que me gusta lo que estoy haciendo
