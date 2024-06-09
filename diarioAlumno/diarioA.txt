@@ -1,1 +1,3 @@
 Aquí viene tu diario
+Punto 1: Añado la rama para la nueva funcionalidad
+Punto 2: Realizamos un segundo cambio para hacer un nuevo commit, antes de trabajar con la siguiente rama.
