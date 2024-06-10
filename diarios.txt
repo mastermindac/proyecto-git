@@ -1,3 +1,3 @@
-1.- Creado diario
-2.- Actualizado diario Sarosi
-3.- Tu diario
+1.- Diario Alumno
+2.- Diario Paco
+3.- Diario Sarosi
