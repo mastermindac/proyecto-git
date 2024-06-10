@@ -1,1 +1,9 @@
-Aquí viene tu diario
+6:00  Me levanto de un salto
+6:30  desayuno
+7:00  programando
+8:30  programando
+13:00 comiendo
+13:30 programando
+20:00 ceno
+20:30 programando
+24:00 Me voy a dormir
