@@ -3,3 +3,9 @@
 10:00 Desayuno
 11:00 Estudio
 14:00 Comer
+15:00 Siesta
+15:30 Ocio
+19:00 Paseo
+20:00 Cena
+21:00 Leer
+23:00 Dormir
