@@ -1,1 +1,11 @@
-Aquí viene tu diario
+5:30 Me levanto
+6:00 Me voy al gimnasio
+8:30 Desayuno
+9:30 Estudio
+14:00 Comer
+15:00 Siesta
+15:30 Trabajar
+19:00 Paseo
+20:00 Cena
+21:00 Leer
+22:00 Dormir
