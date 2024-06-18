@@ -1,0 +1,4 @@
+Listado de los diarios creados:
+1. Diario Alunmo
+2. Diario Paco
+3. Diario Sarosi
