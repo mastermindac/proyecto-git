@@ -1,1 +1,5 @@
 Aquí viene tu diario
+
+Día 3: Comienzo a ver las ramas en Git
+
+Día 4: Más o menos sé manejar esta red social para informáticos
