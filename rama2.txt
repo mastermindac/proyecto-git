@@ -1,0 +1,3 @@
+Este es el primer commit de la rama2
+
+Este es el segundo commit de la rama2
