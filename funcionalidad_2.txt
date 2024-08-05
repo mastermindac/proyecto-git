@@ -1,0 +1,1 @@
+Este archivo incluye la funcionalidad 2 del programa. 
