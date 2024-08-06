@@ -1,1 +1,2 @@
 Aquí viene tu diario
+Cambio rama nueva-funcionalidad
