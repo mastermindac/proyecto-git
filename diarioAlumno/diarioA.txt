@@ -1,1 +1,7 @@
-Aquí viene tu diario
+7:30 Me levanto
+8:00 De camino al trabajo
+12:00 Almuerzo
+13:00 De vuelta al trabajo
+17:00 Fin de la jornada laboral
+18:00 Cena
+23:00 Dormir
