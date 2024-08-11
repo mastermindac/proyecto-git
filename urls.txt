@@ -1,0 +1,2 @@
+URL del Fork: https://github.com/miguelxponce20/proyecto-git.git
+URL del Pull request: https://github.com/mastermindac/proyecto-git/pull/158
