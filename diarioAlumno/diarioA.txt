@@ -1,1 +1,10 @@
-Aquí viene tu diario
+#Aquí viene tu diario
+1. Despertarse
+2. Ducharse
+3. Alistar mochila
+4. Desayunar
+5. Ir a la chamba
+6. Chambear
+7. Almorzar
+8. Seguir chambeando
+9. ....
