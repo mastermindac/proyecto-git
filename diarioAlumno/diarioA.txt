@@ -1,2 +1,3 @@
 Aquí viene tu diario
 Primer commit en la rama nueva funcionalidad
+Segundo commit en la rama nueva funcionalidad
