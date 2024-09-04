@@ -2,3 +2,4 @@ Aquí viene tu diario
 Primer commit en la rama nueva funcionalidad
 Segundo commit en la rama nueva funcionalidad
 Tercer commit en la rama nueva funcionalidad
+Intento de fusionar master y nueva-funcionalidad
