@@ -1,1 +1,9 @@
 Aquí viene tu diario
+10:00 Me levanto
+10:10 Desayuno
+10:30 Programo
+13:40 Voy a comer
+14:10 Juego 
+19:00 Estudio
+20:30 Voy a cenar
+23:00 Voy a dormir
