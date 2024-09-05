@@ -1,1 +1,8 @@
 Aquí viene tu diario
+10:00 Despierto
+10:30 Programando
+14:40 Comiendo
+15:20 Estudiando
+17:00 Jugando
+20:30 Cenando
+00:00 Durmiendo
