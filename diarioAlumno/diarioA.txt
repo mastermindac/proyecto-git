@@ -1,1 +1,4 @@
 Aquí viene tu diario
+Commit 1 nueva-funcionalidad
+Commit 2 nueva-funcionalidad
+Commit 3 nueva-funcionalidad
