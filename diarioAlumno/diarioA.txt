@@ -1,1 +1,10 @@
 Aquí viene tu diario
+// Texto para realizar el primer commit
+6:00 Me levanto
+7:00 Comienzo primer turno trabajo
+12:00 Fin del primer turno
+13:00 Entrenar
+17:00 Comiento segundo turno trabajo
+20:00 Fin del segundo turno 
+21:00 Estudiar
+23:30 Dormir
