@@ -1,1 +1,9 @@
-Aquí viene tu diario
+06:00 Me levanto
+07:00 Comienzo primer turno trabajo
+12:00 Fin del primer turno
+13:00 Entrenar
+15:00 Comer
+17:00 Comiento segundo turno trabajo
+20:00 Fin del segundo turno 
+21:00 Estudiar
+23:30 Dormir
