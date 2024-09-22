@@ -1,1 +1,10 @@
-Aquí viene tu diario
+Aquí viene tu diario:
+08:00 Me levanto
+08:15 Desayuno
+09:00 Comienzo a trabajar
+13:00 Pausa para comer
+13:15 Almuerzo
+14:00 Vuelta al trabajo
+18:00 Acabo trabajo
+19:00 Salgo a dar una Vuelta
+20:00 Preparo cena
