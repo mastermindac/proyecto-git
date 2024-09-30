@@ -1,3 +1,7 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+    RAMA PRUEBAS:
+        1. primer cambio rama-pruebas 
+        2. segundo cambio rama-pruebas 
+        

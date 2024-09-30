@@ -1,1 +1,4 @@
-Aquí viene tu diario
+MI DIARIO (rama nueva-funcionalidad)
+    1. este es el primer cambio para esta rama
+    2. este es el segundo cambio que vamos 
+    a hacer para esta rama :)
