@@ -1,3 +1,5 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+
+Esto es un añadido hecho por Enrique Ejeda para hacer un commit en la rama nueva funcionaldad.
