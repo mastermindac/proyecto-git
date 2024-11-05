@@ -1,3 +1,8 @@
 1.- Creado diario
+"Hoy he ido a pasear por la mañana"
+
 2.- Actualizado diario Sarosi
+"Sarosi se fue a sacar al perro"
+
 3.- Tu diario
+Cambios en el diario en rama nueva_funcionalidad Saludos.
