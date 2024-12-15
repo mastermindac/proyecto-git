@@ -1,0 +1,4 @@
+# Ignorar la carpeta Secreta, password y configuracion
+carpertaSecreta/
+password
+configuracion
