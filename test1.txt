@@ -1,0 +1,2 @@
+Este es un archivo de prueba para simular un test.
+Este archivo no contiene código, solo texto plano.

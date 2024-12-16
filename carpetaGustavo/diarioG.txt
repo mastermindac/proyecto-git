@@ -1,0 +1,14 @@
+6:00 Despierto
+6:30 Desayuno
+7:00 Estudio de matemáticas
+9:00 Clase de programación
+11:00 Trabajo en proyecto de software
+13:00 Almuerzo
+14:00 Clase de algoritmos
+16:00 Estudio de redes
+18:00 Descanso
+19:30 Cena
+20:30 Tiempo en familia
+21:30 Estudio de bases de datos
+23:00 Prepararse para dormir
+24:00 A dormir
