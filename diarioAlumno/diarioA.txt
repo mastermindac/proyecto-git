@@ -1,1 +1,8 @@
-Aquí viene tu diario
+Comenzamos nuetro diario
+1-dia: ya sabemos un poco de git 
+2 - dia seguimos aprendiendo javascrip 
+3- valoramos aprender python
+4.- Seguimos con los cursos del mastermind
+5.- Empezmos un curso nuevo
+6- Seguimos con el curso nuevo 
+7- Terminamos el curso 
