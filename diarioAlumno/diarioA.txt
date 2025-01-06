@@ -1,1 +1,2 @@
-Aquí viene tu diario
+Aquí viene mi diario
+- Primer cambio para el primer commit de la rama "nueva-funcionalidad"
