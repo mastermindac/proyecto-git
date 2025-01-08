@@ -1,2 +1,9 @@
-/carpetaSecreta
-configuracion
+# Ignorar la carpeta "Secreta" en la raíz
+/carpetaSecreta/
+
+# Ignorar el archivo "password" en la raíz
+/password
+
+# Ignorar el archivo "configuracion" en la raíz
+/configuracion
+
