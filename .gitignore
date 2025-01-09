@@ -1,0 +1,3 @@
+carpetaSecreta/             #ignora carpeta esté donde esté
+carpetaSecreta/password     #ignora archivo dentro de carpetaSecreta
+configuracion               #ignora archivo esté donde esté

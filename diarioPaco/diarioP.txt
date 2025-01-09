@@ -4,6 +4,7 @@
 8:00 De camino a la oficina
 9:30 Aluerzo
 10:00 Daily
+11:30 Reunion sorpresa
 14:00 Comida
 14:45 De vuelta al trabajo
 18:00 Fin de la jornada laboral
