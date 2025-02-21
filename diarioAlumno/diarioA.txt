@@ -1,1 +1,13 @@
-Aquí viene tu diario
+6:00 Me levanto pensando en git.
+6:30 Preparando Café pensando en git.
+7:00 Revisando las noticias de git.
+8:00 De camino a la oficina de git.
+9:30 Almuerzo gits.
+10:00 Daily git.
+14:00 Comida git.
+14:45 De vuelta al git.
+18:00 Fin de la jornada de commits.
+19:00 .gitignore .
+21:30 Cena git.
+22:30 Toca leer la documentación de git.
+24:00 A dormir pensando en git.
