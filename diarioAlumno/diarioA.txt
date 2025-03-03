@@ -1,1 +1,14 @@
 Aquí viene tu diario
+1 - Primer comentario, primer cambio
+2 - Segundo cambio
+6:00 Me levanto de un salto
+6:30 Preparando Cafe
+7:00 Revisando noticias
+8:00 De camino a la oficina
+
+Cambio rama-pruebas
+rama-pruebas
+
+Cambio para merge remoto
+
+nueva-funcionalidad
