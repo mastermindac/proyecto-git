@@ -1,4 +1,5 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
-4-.-Nueva Funcionalida
+4-.-Nueva Funcionalidad
+5-.-La otra nueva Funcionalidad
