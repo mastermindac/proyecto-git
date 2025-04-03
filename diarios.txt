@@ -1,3 +1,5 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+4.- Creamos la rama nueva-funcionalidad
+5.- Hacemos el segundo commit para la rama nueva-funcionalidad
