@@ -1,0 +1,3 @@
+Esta funcionalidad, añadirá un filtro para la aplicación para filtar los tipos de mascotas de acuerdo a su especie
+
+Esta Funcionalidad será para añadir estilos al mostrar los resultados del filtrado de las mascotas 
