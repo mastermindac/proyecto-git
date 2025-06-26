@@ -1,3 +1,4 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+4. Nueva funcionalidad
