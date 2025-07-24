@@ -1,5 +1,8 @@
 # Título del proyecto
 
+# La pasion de cristo
+![alt text](la_pasion_de_cristo.jpg)
+
 Curso GIT Proyecto Final
 
 ## Dscripción corta
