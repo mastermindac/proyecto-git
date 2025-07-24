@@ -1,8 +1,5 @@
-##Añade un archivo .gitignore en la carpeta principal para que no se suban los siguientes elementos a tu repositorio:
+#Para este caso: git rm --cached [file]
 
-#La carpeta Secreta
 carpetaSecreta
-#El archivo password
 carpetaSecreta/password
-#El archivo configuracion
 configuracion
