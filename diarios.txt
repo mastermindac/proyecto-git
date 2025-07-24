@@ -1,3 +1,4 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+4.- Me volvi a equivocar, tratando de crear un conflicto en la misma branch, cuando ahi solo se sobreescribe, esta vez estoy modificando la misma linea pero en un branch diferente, de modo que cuando haga el merge, existira el conflicto entre los dos archivos, espero ya haber aprendido :D
