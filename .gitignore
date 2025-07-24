@@ -3,3 +3,5 @@ carpetaSecreta
 carpetaSecreta/password
 
 configuracion
+
+//cuando hice el mergue local de nueva-funcionalidad a master, por algun motivo el archivo .gitignore no se modifico, nose porque si habia ya hecho varios commits con esos cambios en la rama nueva-funcionalidad. hare otro commit para mantener este cambio
