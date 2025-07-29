@@ -1,1 +1,2 @@
 Aquí viene tu diario
+Nota: Recordar añadir una nueva funcionalidad al proyecto
