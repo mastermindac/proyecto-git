@@ -1,1 +1,2 @@
-Aquí viene tu diario
+Cambio 1 de nueva funcionalidad
+Cambio 2 de nueva funcionalidad
