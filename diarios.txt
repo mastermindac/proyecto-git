@@ -1,3 +1,7 @@
 1.- Creado diario
 2.- Actualizado diario Sarosi
 3.- Tu diario
+
+Cambios realizados para el primer commit 1
+
+Cambio realizados para el segundo commit 2
