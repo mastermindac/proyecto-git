@@ -1,1 +1,6 @@
 Aquí viene tu diario
+Esta es la nueva función {
+    bla bla bla () ->{
+        escribiendo...
+    }
+}
