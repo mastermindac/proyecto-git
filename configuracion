@@ -1,2 +1,2 @@
-PC:local
-URL:localhost
+PC:local:5000   
+URL:localhost:8080
