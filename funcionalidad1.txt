@@ -1,0 +1,2 @@
+funcionalidad 1:buscar mastermind en el navegador
+funcionalidad 2:buscar un curso de interes y pagar la sub
