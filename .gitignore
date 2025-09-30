@@ -1,0 +1,7 @@
+#.gitignore solo evita que Git comience a rastrear nuevos archivos.
+
+#Para archivos ya versionados, toca quitarlos con git rm --cached.
+
+carpetaSecreta
+carpetaSecreta/password
+configuracion
