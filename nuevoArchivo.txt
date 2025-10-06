@@ -1,0 +1,1 @@
+Nuevo archivo creado en el primer commit de la rama nueva funcionalidad.
