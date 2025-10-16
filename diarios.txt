@@ -1,3 +1,4 @@
-1.- Creado diario
-2.- Actualizado diario Sarosi
-3.- Tu diario
+1. Se realizo el .gitignore
+2. se creo la primera branch
+3. y se hace el primer commit
+4. Agregando el segundo commit
