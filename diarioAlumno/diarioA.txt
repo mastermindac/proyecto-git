@@ -1,1 +1,7 @@
-Aquí viene tu diario
+7:00 Wake Up
+7:30 Desayuno
+8:00 Ducha
+8:30 Clase Mastermind
+12:00 Almuerzo
+13:00 Clase Matematica
+15:00 Clase Estadistica
