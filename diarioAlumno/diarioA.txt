@@ -1,1 +1,4 @@
 Aquí viene tu diario
+
+Día 1:
+Aprendiendo Git y usar GitHub
