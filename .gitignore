@@ -1,0 +1,11 @@
+#archivos cache
+__pycache__/
+*.pyc
+#archivos de entorno virtual
+venv/
+env/
+#archivos solicitados por el curso
+carpetaSecreta/
+carpetaSecreta/password 
+#redundante _^
+/configuracion

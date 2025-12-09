@@ -1,1 +1,27 @@
 Aquí viene tu diario
+8:00 – Despierto, desayuno ligero y preparo café.
+9:30 – Comienzo a programar, con enfoque en resolver un problema de lógica en el código.
+10:30 – Salgo a pasear con el perro, 20 minutos de caminata en el parque cercano.
+11:00 – Hago 15 minutos de ejercicio (estiramientos y abdominales).
+12:00 – Retomo el estudio, reviso conceptos de algoritmos y optimización.
+13:30 – Sigo con el estudio, ahora con un enfoque en estructuras de datos.
+14:30 – Almuerzo, algo ligero y nutritivo.
+16:00 – Grabo un nuevo video tutorial sobre programación en Python.
+18:00 – Hago algunas tareas variadas: revisar correos, organizar archivos y planificar el día siguiente.
+19:00 – Tareas varias: responder mensajes, organizar pendientes.
+21:30 – Cena, tranquilo, con algo ligero.
+22:30 – Me siento a ver una serie, The Bear, y juego un rato al buscaminas para relajarme.
+24:00 – A dormir, con una buena sensación de productividad y descanso.
+
+10-dic-2025
+8:00 – Despierto, desayuno como siempre, pero con un toque de nerviosismo.
+9:30 – Empiezo a programar, pero algo inesperado sucede: recibo una notificación de que mi proyecto ha sido seleccionado para una presentación en una conferencia internacional de desarrollo de software.
+10:30 – Salgo a pasear con el perro, pero en medio del paseo, un amigo me llama: me invita a una fiesta de lanzamiento de una startup tecnológica en el centro de la ciudad.
+11:00 – Decido aceptar la invitación y me cambio rápidamente, con un toque de formalidad.
+12:00 – Almuerzo con amigos en un restaurante cercano, hablamos de tecnología, startups y el futuro del desarrollo.
+14:30 – Regreso a casa, pero con una energía diferente. Decido estudiar un poco más, pero con una motivación renovada.
+16:00 – Grabo un nuevo video, pero esta vez con un tono más emocionado: cuento sobre la noticia de la conferencia y cómo me siento.
+18:00 – Hago algunas tareas variadas, pero con una sonrisa.
+19:00 – Cena, algo ligero, pero con una sensación de logro.
+22:30 – Me siento a ver una serie, pero también juego al buscaminas, ya que necesito despejarme.
+24:00 – A dormir, con la mente llena de ideas y una sensación de emoción por lo que viene.
