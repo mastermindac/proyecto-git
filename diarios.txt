@@ -1,3 +1,7 @@
-1.- Creado diario
+1.- Creado diario 
 2.- Actualizado diario Sarosi
-3.- Tu diario
+3.- Creado diario
+4.- Actualizado diario Paco
+5.- Creado diario
+6.- Actualizado diario Niko
+7.- Actualizado diario Niko

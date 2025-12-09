@@ -1,1 +1,14 @@
 Aquí viene tu diario
+8:00 – Despierto, desayuno ligero y preparo café.
+9:30 – Comienzo a programar, con enfoque en resolver un problema de lógica en el código.
+10:30 – Salgo a pasear con el perro, 20 minutos de caminata en el parque cercano.
+11:00 – Hago 15 minutos de ejercicio (estiramientos y abdominales).
+12:00 – Retomo el estudio, reviso conceptos de algoritmos y optimización.
+13:30 – Sigo con el estudio, ahora con un enfoque en estructuras de datos.
+14:30 – Almuerzo, algo ligero y nutritivo.
+16:00 – Grabo un nuevo video tutorial sobre programación en Python.
+18:00 – Hago algunas tareas variadas: revisar correos, organizar archivos y planificar el día siguiente.
+19:00 – Tareas varias: responder mensajes, organizar pendientes.
+21:30 – Cena, tranquilo, con algo ligero.
+22:30 – Me siento a ver una serie, The Bear, y juego un rato al buscaminas para relajarme.
+24:00 – A dormir, con una buena sensación de productividad y descanso.
