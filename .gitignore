@@ -1,0 +1,5 @@
+#ignorar carpetaSecreta
+carpetaSecreta/
+
+#ignorar archivo configuracion
+configuracion

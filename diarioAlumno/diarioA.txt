@@ -1,1 +1,4 @@
 Aquí viene tu diario
+Aqui agregamos rama 'nueva-funcionalidad'
+primer commit 
+segundo commit 
