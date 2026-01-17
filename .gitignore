@@ -1,0 +1,8 @@
+carpetaSecreta/
+configuracion
+otra-configuracion
+
+# "otra-configuracion" fue creado únicamente para realizar pruebas.
+# Este archivo se usó para verificar que .gitignore estuviera funcionando correctamente,
+# ya que los archivos y carpetas que se debían ignorar ya existían previamente en el
+# repositorio y Git seguía detectando cualquier modificación realizada sobre ellos.
