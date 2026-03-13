@@ -1,1 +1,5 @@
-Aquí viene tu diario
+09:00 Me levanto
+10:00 Paseo al perro
+12:00 Hora de trabajar
+13:30 A comer!
+....
