@@ -1,1 +1,3 @@
 Aquí viene tu diario
+Aquí voy a añadir la nueva funcionalidad, la cual es un saludo a Nate que nunca leerá.
+Y bueno, ya que tengo que hacer otro commit que menos que saludar a Antonio, hola y gracias profe.
