@@ -1,1 +1,3 @@
 Aquí viene tu diario
+
+añadiendo una nueva funcionalidad para el reto git
