@@ -1,1 +1,5 @@
-Aquí viene tu diario
+Dia 1 - 
+Hoy nos enfocamos en el curso de git de mastermind.
+
+Dia 2 - 
+Hoy fue domingo y por lo tanto descansamos y disfrutamos en familia.
