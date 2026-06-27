@@ -1,0 +1,6 @@
+# Ignoramos el directorio con nombre "carpetaSecreta"
+carpetaSecreta
+
+# Ignoramos archivos importantes por seguridad
+configuracion
+password
