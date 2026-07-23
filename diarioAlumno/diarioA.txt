@@ -5,3 +5,8 @@ DIARIO PERSONAL:
 08:00 Desayuno
 08:30 Me preparo para salir
 09:00 Salgo al trabajo
+14:00 Comida
+17:00 Salida trabajo
+18:00 Voy al gym
+21:00 Cenar
+24:00 Dormir
