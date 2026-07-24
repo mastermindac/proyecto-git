@@ -1,0 +1,6 @@
+Probando diarios:
+
+6:00 Me levanto
+7:30 Me baño
+8:00 Voy a trabajo
+...
