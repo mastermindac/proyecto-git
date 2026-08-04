@@ -1,3 +1,5 @@
 Aquí viene tu diario
 
 Cambios para el commit 1
+
+Más cambios para el segundo commit
