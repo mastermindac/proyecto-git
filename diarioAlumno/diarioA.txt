@@ -1,1 +1,2 @@
 Aquí viene tu diario
+7:30 Practico ramas y commits con Git
