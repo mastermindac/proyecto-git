@@ -1,1 +1,7 @@
-Aquí viene tu diario
+7:00 Me levanto
+8:00 Desayuno
+10:00 Hora de estudiar
+11:00 Programar
+12:00 break de cafe
+12:30 continuar programando
+Continuar mas tarde
